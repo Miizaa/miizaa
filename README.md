@@ -42,14 +42,6 @@ Olá! Eu sou o **Miizaa**. Atualmente estou focado em criar experiências intera
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miizaa&layout=compact&theme=dracula"/>
 </div>
 
----
-
-### 🏆 Projetos em Destaque
-
-| Projeto | Classe | Descrição |
-| :--- | :---: | :--- |
-| **MiizaBot** | `Bot/RPG` | Meu bot pessoal para Twitch. Inclui sistema de economia, níveis e combate por texto. Feito em Python + Tkinter. |
-
 <br>
 
 <div align="center">
